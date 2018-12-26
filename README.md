@@ -1,10 +1,40 @@
-# kcai-interactive-installations
+# Kansas City Art Institute • Interactive Installations
 
-# Watch List
+#### IARTE 370 81 • Spring 2019 • MW 6:30pm - 9:20pm
+
+#### Chris Riebschlager - criebschlager@kcai.edu
+
+# Studios
+
+- [Active Theory](https://activetheory.net)
+- [Hush](https://heyhush.com)
+- [Leviathan](http://www.lvthn.com/)
+- [Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/)
+- [Moment Factory](https://momentfactory.com/)
+- [nocomputer](https://www.nocomputer.be/)
+- [Obscura Digital](http://obscuradigital.com/)
+- [Second Story](https://secondstory.com/)
+
+# Inspiration
+
+- [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
+- [Creative Applications](http://www.creativeapplications.net/)
+- [Design Boom](https://www.designboom.com/tag/interactive-installation/)
+- [Generative Artistry](https://generativeartistry.com/)
+- [Inconvergent](https://inconvergent.net/)
+- [OpenProcessing](https://www.openprocessing.org/)
+- [Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/)
+- [Vice](https://www.vice.com/en_us/topic/interactive-installation)
+
+# Videos
 
 - [David Edwards: Creating Things That Matter](https://www.youtube.com/watch?v=SId3J8J7cPo)
+- [Joshua Davis - Never Let Success Get In The Way of Creativity](https://www.youtube.com/watch?v=l1JhJawUc5c)
+- [Robert Hodgin - Eyeo 2014](https://vimeo.com/103537259)
+- [Tim Holman - Generative Art Speedrun](https://www.youtube.com/watch?v=647Nryzve2A)
+- [Tim Holman - Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk)
 
-Kansas City Art Institute - Interactive Installations
+# Class Notes
 
 - [2019-01-14](./classes/2019-01-14.md)
 - [2019-01-16](./classes/2019-01-16.md)
