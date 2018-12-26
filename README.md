@@ -1,10 +1,13 @@
 # kcai-interactive-installations
 
+# Watch List
+
+- [David Edwards: Creating Things That Matter](https://www.youtube.com/watch?v=SId3J8J7cPo)
+
 Kansas City Art Institute - Interactive Installations
 
 - [2019-01-14](./classes/2019-01-14.md)
 - [2019-01-16](./classes/2019-01-16.md)
-- [2019-01-21](./classes/2019-01-21.md)
 - [2019-01-23](./classes/2019-01-23.md)
 - [2019-01-28](./classes/2019-01-28.md)
 - [2019-01-30](./classes/2019-01-30.md)
