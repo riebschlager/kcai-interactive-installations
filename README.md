@@ -4,10 +4,14 @@
 
 #### Chris Riebschlager - criebschlager@kcai.edu
 
-# Studios
+# Studios and People
 
 - [Active Theory](https://activetheory.net)
+- [Anouk Wipprecht](http://www.anoukwipprecht.nl)
+- [Design I/O](http://design-io.com/)
+- [Golan Levin](http://flong.com/)
 - [Hush](https://heyhush.com)
+- [Kyle McDonald](http://www.kylemcdonald.net/)
 - [Leviathan](http://www.lvthn.com/)
 - [Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/)
 - [Moment Factory](https://momentfactory.com/)
@@ -17,6 +21,7 @@
 
 # Inspiration
 
+- [Bitforms Gallery](https://vimeo.com/bitforms)
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
 - [Creative Applications](http://www.creativeapplications.net/)
 - [Design Boom](https://www.designboom.com/tag/interactive-installation/)
@@ -30,6 +35,7 @@
 
 - [David Edwards: Creating Things That Matter](https://www.youtube.com/watch?v=SId3J8J7cPo)
 - [Joshua Davis - Never Let Success Get In The Way of Creativity](https://www.youtube.com/watch?v=l1JhJawUc5c)
+- [Kyle McDonald - Eyeo 2016](https://vimeo.com/178236531)
 - [Robert Hodgin - Eyeo 2014](https://vimeo.com/103537259)
 - [Tim Holman - Generative Art Speedrun](https://www.youtube.com/watch?v=647Nryzve2A)
 - [Tim Holman - Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk)
@@ -37,7 +43,7 @@
 # Class Notes
 
 - [2019-01-14](./classes/2019-01-14.md)
-- [2019-01-16](./classes/2019-01-16.md)
+- [2019-01-16 - Defining Interactive Installations](./classes/2019-01-16.md)
 - [2019-01-23](./classes/2019-01-23.md)
 - [2019-01-28](./classes/2019-01-28.md)
 - [2019-01-30](./classes/2019-01-30.md)
