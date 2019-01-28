@@ -47,7 +47,7 @@
 - [2019-01-14](./classes/2019-01-14.md)
 - [2019-01-16 - Defining Interactive Installations](./classes/2019-01-16.md)
 - [2019-01-23 - Special Guest: Will Funk](./classes/2019-01-23.md)
-- [2019-01-28](./classes/2019-01-28.md)
+- [2019-01-28 - Discovery and Concept](./classes/2019-01-28.md)
 - [2019-01-30](./classes/2019-01-30.md)
 - [2019-02-04](./classes/2019-02-04.md)
 - [2019-02-06](./classes/2019-02-06.md)
