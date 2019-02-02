@@ -12,6 +12,7 @@
 - [Elburz.io](https://www.elburz.io/)
 - [Golan Levin](http://flong.com/)
 - [Hush](https://heyhush.com)
+- [Ideum](https://ideum.com)
 - [Kyle McDonald](http://www.kylemcdonald.net/)
 - [Leviathan](http://www.lvthn.com/)
 - [Marshmallow Laser Feast](https://www.marshmallowlaserfeast.com/)
@@ -20,6 +21,7 @@
 - [nVoid](http://nvoid.com/)
 - [Obscura Digital](http://obscuradigital.com/)
 - [Second Story](https://secondstory.com/)
+- [Univeral Everything](https://universaleverything.com/)
 - [Will Funk](https://www.willfunk.net/)
 
 # Inspiration
