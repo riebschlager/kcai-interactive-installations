@@ -26,16 +26,16 @@
 
 # Inspiration
 
-- [Bitforms Gallery](https://vimeo.com/bitforms)
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
+- [Bitforms Gallery](https://vimeo.com/bitforms)
 - [Creative Applications](http://www.creativeapplications.net/)
 - [Design Boom](https://www.designboom.com/tag/interactive-installation/)
 - [Generative Artistry](https://generativeartistry.com/)
 - [Inconvergent](https://inconvergent.net/)
 - [OpenProcessing](https://www.openprocessing.org/)
 - [Prosthetic Knowledge](http://prostheticknowledge.tumblr.com/)
-- [Vice](https://www.vice.com/en_us/topic/interactive-installation)
 - [The Art of the Internet, Restored and Out in the World](https://www.nytimes.com/2019/01/23/arts/design/internet-art-new-museum-rhizome.html)
+- [Vice](https://www.vice.com/en_us/topic/interactive-installation)
 
 # Videos
 
@@ -53,7 +53,7 @@
 - [2019-01-23 - Special Guest: Will Funk](./classes/2019-01-23.md)
 - [2019-01-28 - Inspiration](./classes/2019-01-28.md)
 - [2019-01-30 - Discovery and Concept](./classes/2019-01-30.md)
-- [2019-02-04](./classes/2019-02-04.md)
+- [2019-02-04 - Special Guest: Luke Hurd](./classes/2019-02-04.md)
 - [2019-02-06](./classes/2019-02-06.md)
 - [2019-02-11](./classes/2019-02-11.md)
 - [2019-02-13](./classes/2019-02-13.md)
