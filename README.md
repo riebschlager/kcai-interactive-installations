@@ -29,6 +29,7 @@
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
 - [Bitforms Gallery](https://vimeo.com/bitforms)
 - [Creative Applications](http://www.creativeapplications.net/)
+- [Creative Coding Notes](https://github.com/cacheflowe/creative-coding-notes)
 - [Design Boom](https://www.designboom.com/tag/interactive-installation/)
 - [Generative Artistry](https://generativeartistry.com/)
 - [Inconvergent](https://inconvergent.net/)
