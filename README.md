@@ -21,6 +21,7 @@
 - [nVoid](http://nvoid.com/)
 - [Obscura Digital](http://obscuradigital.com/)
 - [Second Story](https://secondstory.com/)
+- [Slanted Studio](https://slanted.studio/)
 - [Univeral Everything](https://universaleverything.com/)
 - [Will Funk](https://www.willfunk.net/)
 
