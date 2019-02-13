@@ -57,7 +57,7 @@
 - [2019-01-30 - Discovery and Concept](./classes/2019-01-30.md)
 - [2019-02-04 - Special Guest: Luke Hurd](./classes/2019-02-04.md)
 - [2019-02-11 - Leap Motion](./classes/2019-02-11.md)
-- [2019-02-13](./classes/2019-02-13.md)
+- [2019-02-13 - Cameras as Interface](./classes/2019-02-13.md)
 - [2019-02-18](./classes/2019-02-18.md)
 - [2019-02-20](./classes/2019-02-20.md)
 - [2019-02-25](./classes/2019-02-25.md)
