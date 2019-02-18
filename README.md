@@ -4,6 +4,10 @@
 
 #### Chris Riebschlager - criebschlager@kcai.edu
 
+# Equipment Checkout
+
+- [Google Sheet](https://docs.google.com/forms/d/1Aw6RbajrDRRWmQMQpXs3K_zZcZu8BdWOi6YKIQHFmEQ)
+
 # Studios and People
 
 - [Active Theory](https://activetheory.net)
