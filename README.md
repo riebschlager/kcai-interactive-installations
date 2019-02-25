@@ -54,7 +54,7 @@
 
 # Class Notes
 
-- [2019-01-14](./classes/2019-01-14.md)
+- [2019-01-14 - Day One](./classes/2019-01-14.md)
 - [2019-01-16 - Defining Interactive Installations](./classes/2019-01-16.md)
 - [2019-01-23 - Special Guest: Will Funk](./classes/2019-01-23.md)
 - [2019-01-28 - Inspiration](./classes/2019-01-28.md)
@@ -63,9 +63,8 @@
 - [2019-02-11 - Leap Motion](./classes/2019-02-11.md)
 - [2019-02-13 - Cameras as Interface](./classes/2019-02-13.md)
 - [2019-02-18 - Touch](./classes/2019-02-18.md)
-- [2019-02-20](./classes/2019-02-20.md)
-- [2019-02-25](./classes/2019-02-25.md)
-- [2019-02-27](./classes/2019-02-27.md)
+- [2019-02-20 - Work Day! (And read Douglas Rushkoff)](./classes/2019-02-20.md)
+- [2019-02-25 - Project One Check In](./classes/2019-02-25.md)
 - [2019-03-11](./classes/2019-03-11.md)
 - [2019-03-13](./classes/2019-03-13.md)
 - [2019-03-18](./classes/2019-03-18.md)
